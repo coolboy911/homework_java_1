@@ -1,3 +1,4 @@
+//Given an input string s, reverse the order of the words.
 package homework.homework_java_1;
 public class task1 {
     public static void main(String[] args) {
